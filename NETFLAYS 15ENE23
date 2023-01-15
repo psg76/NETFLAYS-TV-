@@ -1,0 +1,514 @@
+#EXTM3U
+
+#EXTINF:-1, OLD CITY
+https://uruplaytwo.duckdns.org/OLD_CITY/index.m3u8
+EXTINF:-1, ROCK POP
+https://uruplaytwo.duckdns.org/ROCK_POP/index.m3u8
+#EXTINF:-1,NETTV
+https://uruplaytwo.duckdns.org/NETTV/index.m3u8
+#EXTINF:-1,AGENFOR
+https://uruplaytwo.duckdns.org/AGENFOR/index.m3u8
+#EXTINF:-1,DHE
+https://uruplaytwo.duckdns.org/DHE/index.m3u8
+#EXTINF:-1,HITS
+https://uruplaytwo.duckdns.org/HITS/index.m3u8
+#EXTINF:-1,EURO CHANNEL
+https://uruplaytwo.duckdns.org/EURO_CHANNEL/index.m3u8
+#EXTINF:-1,EURONEWS
+https://uruplaytwo.duckdns.org/EURO_NEWS/index.m3u8
+#EXTINF:-1,FMH KIDS
+https://uruplaytwo.duckdns.org/FMH_KIDS/index.m3u8
+#EXTINF:-1,HOME & HEALT
+https://uruplaytwo.duckdns.org/HOME_HEALT/index.m3u8
+#EXTINF:-1,MOVIE CLUB
+https://uruplaytwo.duckdns.org/MOVIE_CLUB/index.m3u8
+#EXTINF:-1,DISCOVERY THEATER
+https://uruplaytwo.duckdns.org/DISCOVERY_THEATER/index.m3u8
+#EXTINF:-1,CARTOONS
+https://uruplaytwo.duckdns.org/CARTOONS/index.m3u8
+#EXTINF:-1,CINE FAMILIAR
+https://uruplaytwo.duckdns.org/CINE_FAMILIAR/index.m3u8
+#EXTINF:-1,CINE HISPANO
+https://uruplaytwo.duckdns.org/CINE_HISPANO/index.m3u8
+#EXTINF:-1,CINE PREMIUM
+https://uruplaytwo.duckdns.org/CINE_PREMIUM/index.m3u8
+#EXTINF:-1,LOVE NATURE
+https://uruplaytwo.duckdns.org/LOVE_NATURE/index.m3u8
+#EXTINF:-1,MOVIE MOTION
+https://uruplaytwo.duckdns.org/MOVIE_MOTION/index.m3u8
+#EXTINF:-1,MOVIES CLUB
+https://uruplaytwo.duckdns.org/MOVIES_CLUB/index.m3u8
+#EXTINF:-1,RETRO
+https://uruplaytwo.duckdns.org/RETRO/index.m3u8
+#EXTINF:-1,SERIES CLUB
+https://uruplaytwo.duckdns.org/SERIES_CLUB/index.m3u8
+#EXTINF:-1,ZOOMOO
+https://uruplaytwo.duckdns.org/ZOOMOO/index.m3u8
+#EXTINF:-1,TELEAMAZONAS
+https://uruplaytwo.duckdns.org/TELEAMAZONAS_FH/index.m3u8
+#EXTINF:-1,DOS KIDS
+https://uruplaytwo.duckdns.org/DOS_KIDS/index.m3u8
+#EXTINF:-1,SUN CHANNEL
+https://uruplaytwo.duckdns.org/SUN_CHANNEL/index.m3u8
+#EXTINF:-1,SONY MOVIES
+https://uruplaytwo.duckdns.org/SONY_MOVIES/index.m3u8
+#EXTINF:-1,NAT GEO
+https://uruplaytwo.duckdns.org/NAT_GEO/index.m3u8
+#EXTINF:-1,MX FAMILY
+https://uruplaytwo.duckdns.org/MX_FAMILY/index.m3u8
+#EXTINF:-1,MX CLASSICS
+https://uruplaytwo.duckdns.org/MX_CLASSIC/index.m3u8
+#EXTINF:-1,MX PRIME
+https://uruplaytwo.duckdns.org/MX_PRIME/index.m3u8
+#EXTINF:-1,MX OLD
+https://uruplaytwo.duckdns.org/MX_OLD/index.m3u8
+#EXTINF:-1,ZOOM BACK
+https://uruplaytwo.duckdns.org/ZOOM_BACK/index.m3u8
+#EXTINF:-1,MUNDO SABOR
+https://uruplaytwo.duckdns.org/MUNDO_SABOR/index.m3u8
+#EXTINF:-1,ON TOUR
+https://uruplaytwo.duckdns.org/ON_TOUR/index.m3u8
+#EXTINF:-1,FIT MAX
+https://uruplaytwo.duckdns.org/FITMAX/index.m3u8
+#EXTINF:-1,SPORT EXT
+https://uruplaytwo.duckdns.org/SPORT_EXT/index.m3u8
+#EXTINF:-1,FOOD NETWORK
+https://uruplaytwo.duckdns.org/FOOD_NETWORK/index.m3u8
+#EXTINF:-1, ESTRELLAS 
+https://uruplaytwo.duckdns.org/ESTRELLAS/index.m3u8
+#EXTINF:-1, DISCOVERY WORLD
+https://uruplaytwo.duckdns.org/DISCOVERYORLD/index.m3u8
+#EXTINF:-1,A&E
+https://uruplaytwo.duckdns.org/AE/index.m3u8
+#EXTINF:-1,GOL PERU
+https://uruplaytwo.duckdns.org/GOLPERU/index.m3u8
+#EXTINF:-1,PASIONES
+https://uruplaytwo.duckdns.org/PASIONES/index.m3u8
+#EXTINF:-1,WIN SPORT
+https://uruplaytwo.duckdns.org/WINSPORT/index.m3u8
+#EXTINF:-1,TOROS
+https://uruplaytwo.duckdns.org/TOROS/index.m3u8
+#EXTINF:-1, 10
+https://uruplaytwo.duckdns.org/uy_Canal_10_SAETA/index.m3u8
+#EXTINF:-1, 4
+https://uruplaytwo.duckdns.org/uy_Canal_4_Montecarlo/index.m3u8
+#EXTINF:-1, 4.2
+https://uruplaytwo.duckdns.org/uy_Canal_4_Salto/index.m3u8
+#EXTINF:-1, canal AV
+https://uruplaytwo.duckdns.org/uy_Canal_AV/index.m3u8
+#EXTINF:-1,CIUDAD TV
+https://uruplaytwo.duckdns.org/uy_Ciudad_TV/index.m3u8
+#EXTINF:-1,LA TELE
+https://uruplaytwo.duckdns.org/uy_La_Tele/index.m3u8
+#EXTINF:-1,TELE DOCE
+https://uruplaytwo.duckdns.org/uy_TeleDoce/index.m3u8
+#EXTINF:-1,TV CIUDAD
+https://uruplaytwo.duckdns.org/uy_TV_Ciudad/index.m3u8
+#EXTINF:-1,VERA TV
+https://uruplaytwo.duckdns.org/uy_Vera_TV/index.m3u8
+#EXTINF:-1,VTV
+https://uruplaytwo.duckdns.org/uy_VTV/index.m3u8
+#EXTINF:-1,VTV PLUS
+https://uruplaytwo.duckdns.org/uy_VTV_Plus/index.m3u8
+#EXTINF:-1,CINE ACCION
+https://uruplaytwo.duckdns.org/CINE_ACCION/index.m3u8
+#EXTINF:-1,CINE ACCION SAGAS
+https://uruplaytwo.duckdns.org/CINE_ACCION_SAGAS/index.m3u8
+#EXTINF:-1,CANTINFLAS
+https://uruplaytwo.duckdns.org/Cantinflas/index.m3u8
+#EXTINF:-1,CAPITAN AMERIA Y VENGADORES 
+https://uruplaytwo.duckdns.org/Capitan_America_y_Los_Planetarios/index.m3u8
+#EXTINF:-1,CASO CERRADO
+https://uruplaytwo.duckdns.org/Caso_Cerrado/index.m3u8
+#EXTINF:-1, CHESPIRITO 
+https://uruplaytwo.duckdns.org/ChespiritoTINO/index.m3u8
+#EXTINF:-1,CLASICOS DISNEY LATINO 
+https://uruplaytwo.duckdns.org/Clasicos_de_Disney_(Latino)/index.m3u8
+#EXTINF:-1,DAVE Y EVA
+https://uruplaytwo.duckdns.org/DAVE_Y_EVA/index.m3u8
+#EXTINF:-1,DISNEY LIVE
+https://uruplaytwo.duckdns.org/Disney_Live_Action/index.m3u8
+#EXTINF:-1, DONDE ESTA ALLY
+https://uruplaytwo.duckdns.org/Donde_estaally/index.m3u8
+#EXTINF:-1,DRAGON BALL SAGA FREEZER
+https://uruplaytwo.duckdns.org/Dragon_Ball_Freezer/index.m3u8
+#EXTINF:-1,AUTO FANTASTICO
+https://uruplaytwo.duckdns.org/El_Auto_Fantastico/index.m3u8
+#EXTINF:-1,GALLO CLAUDIO
+https://uruplaytwo.du
+ckdns.org/El_Gallo_Claudio/index.m3u8
+#EXTINF:-1,FENOMENOIDE
+https://uruplaytwo.duckdns.org/Fenomenoide/index.m3u8
+#EXTINF:-1,FRIENDS
+https://uruplaytwo.duckdns.org/Friends/index.m3u8
+#EXTINF:-1,JUEGO DE TRONOS
+https://uruplaytwo.duckdns.org/Game_of_Thrones/index.m3u8
+#EXTINF:-1,GARFIELD
+https://uruplaytwo.duckdns.org/Garfield/index.m3u8
+#EXTINF:-1,GARGOLAS
+https://uruplaytwo.duckdns.org/Gargolas_Heroes_Goticos/index.m3u8
+#EXTINF:-1,GASPARIN Y SUS AMIGOS
+https://uruplaytwo.duckdns.org/Gasparin_y_sus_Amigos/index.m3u8
+#EXTINF:-1,HALCONES GALACTICOS
+https://uruplaytwo.duckdns.org/Halcones_Galacticos/index.m3u8
+#EXTINF:-1,HALO
+https://uruplaytwo.duckdns.org/Halo/index.m3u8
+#EXTINF:-1,HANNA MONTANA
+https://uruplaytwo.duckdns.org/Hannah_Montana_Temp_1/index.m3u8
+#EXTINF:-1,HARRY POTTER Y ANIMALES FANTASTICOS
+https://uruplaytwo.duckdns.org/Harry_Potter_Animales_Fantasticos/index.m3u8
+#EXTINF:-1,HEIDI
+https://uruplaytwo.duckdns.org/Heidi/index.m3u8
+#EXTINF:-1,HERCULES
+https://uruplaytwo.duckdns.org/Hercules/index.m3u8
+#EXTINF:-1,HEY ARNOLD
+https://uruplaytwo.duckdns.org/Hey_Arnold/index.m3u8
+#EXTINF:-1,HISTORIAS
+https://uruplaytwo.duckdns.org/HISTORIAS/index.m3u8
+#EXTINF:-1,LA HORMIGA ATOMICA
+https://uruplaytwo.duckdns.org/Hormiga_Atomica/index.m3u8
+#EXTINF:-1,LA CASA DE LOS DIBUJOS
+https://uruplaytwo.duckdns.org/La_casa_de_los_Dibujos/index.m3u8
+#EXTINF:-1,LA FAMILIA PELUCHE 
+https://uruplaytwo.duckdns.org/La_Familia_P._Luche/index.m3u8
+#EXTINF:-1,LA ROSA DE GUADALUPE 
+https://uruplaytwo.duckdns.org/La_Rosa_de_Guadalupe/index.m3u8
+#EXTINF:-1,PISTAS DE BLUE
+https://uruplaytwo.duckdns.org/Las_Pistas_de_Blue/index.m3u8
+#EXTINF:-1,TORTUGAS NINJA
+https://uruplaytwo.duckdns.org/Las_Tortugas_Ninja/index.m3u8
+#EXTINF:-1,LOS AÑOS MARAVILLOSOS
+https://uruplaytwo.duckdns.org/Los_Anos_Maravillosos/index.m3u8
+#EXTINF:-1,LOS BACKYARDIGANS
+https://uruplaytwo.duckdns.org/Los_Backyardigans/index.m3u8
+#EXTINF:-1, CASTORES CASCARRABIAS 
+https://uruplaytwo.duckdns.org/Los_Castores_Cascarrabias/index.m3u8
+#EXTINF:-1,MUPPET BABYS
+https://uruplaytwo.duckdns.org/Los_Muppet_Babys/index.m3u8
+#EXTINF:-1, PADRINOS MAGUCOS
+https://uruplaytwo.duckdns.org/Los_Padrinos_Magicos/index.m3u8
+#EXTINF:-1,LOS SUPERSONICOS 
+https://uruplaytwo.duckdns.org/Los_Supersonicos/index.m3u8
+#EXTINF:-1,MARVEL
+https://uruplaytwo.duckdns.org/MARVEL/index.m3u8
+#EXTINF:-1,MI PEQUEÑO PONY
+https://uruplaytwo.duckdns.org/Mi_Pequeno_Pony/index.m3u8
+#EXTINF:-1,PELICULAS MARVEL
+https://uruplaytwo.duckdns.org/Peliculas_Marvel/index.m3u8
+#EXTINF:-1, PELÍCULAS DRAMA
+https://uruplaytwo.duckdns.org/Peliculas_Drama/index.m3u8
+#EXTINF:-1,NARCOS
+https://uruplaytwo.duckdns.org/NARCOS/index.m3u8
+#EXTINF:-1,PADRE DE FAMILIA
+https://uruplaytwo.duckdns.org/Padre_de_familia/index.m3u8
+#EXTINF:-1,PAW PATROL 
+https://uruplaytwo.duckdns.org/Paw_Patroll/index.m3u8
+#EXTINF:-1,PEDRO INFANTE
+https://uruplaytwo.duckdns.org/Pedro_Infante/index.m3u8
+#EXTINF:-1, PELICULAS 2022
+https://uruplaytwo.duckdns.org/PELICULAS_ESTRENOS_2022/index.m3u8
+#EXTINF:-1,POCOYO
+https://uruplaytwo.duckd
+ns.org/Pocoyo/index.m3u8
+#EXTINF:-1,SCOOBY DOO
+https://uruplaytwo.duckdns.org/Scooby_Doo/index.m3u8
+#EXTINF:-1,SHARK TANK
+https://uruplaytwo.duckdns.org/Shark_Thank/index.m3u8
+#EXTINF:-1,AGENTE 86
+https://uruplaytwo.duckdns.org/Super_Agente_86/index.m3u8
+#EXTINF:-1,ALERTA AEROPUERTO 
+https://uruplaytwo.duckdns.org/S_Alerta_Aeropuerto/index.m3u8
+#EXTINF:-1,TIMON Y PUMBA
+https://uruplaytwo.duckdns.org/Timon_&_Pumbaa/index.m3u8
+#EXTINF:-1,TIROLOCO
+https://uruplaytwo.duckdns.org/Tiroloco/index.m3u8
+#EXTINF:-1,TOM Y JERRY 
+https://uruplaytwo.duckdns.org/Tom_Y_Jerry/index.m3u8
+#EXTINF:-1,VECINOS
+https://uruplaytwo.duckdns.org/Vecinos/index.m3u8
+#EXTINF:-1,XENA LA PRINCESA GUERRERA
+https://uruplaytwo.duckdns.org/Xena_La_Princesa_Guerrera_Temp_1/index.m3u8
+#EXTINF:-1,ACAPULCO SHORE
+https://uruplaytwo.duckdns.org/Acapulco_Shore_FHD/index.m3u8
+#EXTINF:-1,ALF
+https://uruplaytwo.duckdns.org/Alf/index.m3u8
+#EXTINF:-1, ANIMANIACS 
+https://uruplaytwo.duckdns.org/Animaniacs/index.m3u8
+#EXTINF:-1,BOB ESPONJA
+https://uruplaytwo.duckdns.org/Bob_Esponja/index.m3u8
+#EXTINF:-1,BUZZ LIGHT YEAR
+https://uruplaytwo.duckdns.org/Buzz_Lightyear/index.m3u8
+#EXTINF:-1, CASTORES CASCARRABIAS 
+https://uruplaytwo.duckdns.org/Castores_Cascarravias/index.m3u8
+#EXTINF:-1,PERRO Y GATO
+https://uruplaytwo.duckdns.org/Cat_Dog/index.m3u8
+#EXTINF:-1,CORAJE EL PERRO COBARDE
+https://uruplaytwo.duckdns.org/Coraje_El_Perro_Cobarde/index.m3u8
+#EXTINF:-1,CSI MIAMI 
+https://uruplaytwo.duckdns.org/CSI_Miami/index.m3u8
+#EXTINF:-1,DEATH NOTE
+https://uruplaytwo.duckdns.org/Death_Note/index.m3u8
+#EXTINF:-1,DESAFIO SOBRE FUEGO
+https://uruplaytwo.duckdns.org/Desafio_de_fuego/index.m3u8
+#EXTINF:-1,DESENCANTO
+https://uruplaytwo.duckdns.org/DesEncanto/index.m3u8
+#EXTINF:-1,DIGIMON
+https://uruplaytwo.duckdns.org/Digimon/index.m3u8
+#EXTINF:-1, DINOSAURIOS 
+https://uruplaytwo.duckdns.org/Dinosaurios/index.m3u8
+#EXTINF:-1,DON GATO Y SU PANDILLA 
+https://uruplaytwo.duckdns.org/DON_GATO_Y_SU_PANDILLA/index.m3u8
+#EXTINF:-1,DR HOUSE
+https://uruplaytwo.duckdns.org/Dr_House/index.m3u8
+#EXTINF:-1,DRAGON BALL
+https://uruplaytwo.duckdns.org/Dragon_Ball/index.m3u8
+#EXTINF:-1,DRAGON BALL SUPER
+https://uruplaytwo.duckdns.org/Dragon_Ball_Super_1/index.m3u8
+#EXTINF:-1,DRAGON BALL SUPER 2
+https://uruplaytwo.duckdns.org/Dragon_Ball_Super_2/index.m3u8
+#EXTINF:-1,DRAGON BALL SAGA CELL
+https://uruplaytwo.duckdns.org/Dragon_Ball_Z_Saga_Cell/index.m3u8
+#EXTINF:-1,EL CHAPULÍN COLORADO 
+https://uruplaytwo.duckdns.org/El_Chapulin_Colorado/index.m3u8
+#EXTINF:-1,EL CHAVO ANIMADO
+https://uruplaytwo.duckdns.org/El_Chavo_Animado/index.m3u8
+#EXTINF:-1,EL COYOTE Y EL CORRECAMINOS
+https://uruplaytwo.duckdns.org/El_Coyote_y_el_Correcaminos/index.m3u8
+#EXTINF:-1,EL LABORATORIO DE DEXTER 
+https://uruplaytwo.duckdns.org/El_Laboratorio_de_Dexter/index.m3u8
+#EXTINF:-1,EL MENTALISTA
+https://uruplaytwo.duckdns.org/El_Mentalista/index.m3u8
+#EXTINF:-1,EL MUNDO DE BEAKMAN
+https://uruplaytwo.duckdns.org/El_Mundo_de_Beakman/index.m3u8
+#EXTINF:-1,EL PAJARO LOCO
+https://uruplaytwo.duckdns.org/El_Pajaro_Loco/index.m3u8
+#EXTINF:-1,EL PRINCIPE DEL RAP
+https://uruplaytwo.duckdns.org/El_Principe_del_Rap/index.m3u8
+#EXTINF:-1,LOONEY TUNES
+https://uruplaytwo.duckdns.org/El_show_de_los_Looney_Tunes/index.m3u8
+#EXTINF:-1,EN FAMILIA CON CHABELO 
+https://uruplaytwo.duckdns.org/En_Familia_con_Chabelo/index.m3u8
+#EXTINF:-1,ESCANDALOSOS
+https://uruplaytwo.duckdns.org/Escandalosos/index.m3u8
+#EXTINF:-1,HECHIZADA
+https://uruplaytwo.duckdns.org/Hechizada/index.m3u8
+#EXTINF:-1,JIMMY NEUTRON
+https://uruplaytwo.duckdns.org/Jimmy_Neutron/index.m3u8
+#EXTINF:-1,LA CASA DE MICKY MOUSE
+https://uruplaytwo.duckdns.org/La_Casa_de_Micky_Mouse/index.m3u8
+#EXTINF:-1,LA CASA DE PAPEL 
+https://uruplaytwo.duckdns.org/La_Casa_de_Papel/index.m3u8
+#EXTINF:-1,LA FAMILIA PELUCHE 
+https://uruplaytwo.duckdns.org/La_Familia_Peluche/index.m3u8
+#EXTINF:-1,LA HORA PICO
+https://uruplaytwo.duckdns.org/La_Hora_Pico/index.m3u8
+#EXTINF:-1,LA NIÑERA
+https://uruplaytwo.duckdns.org/La_Ninera/index.m3u8
+#EXTINF:-1,LA PANTERA ROSA 
+https://uruplaytwo.duckdns.org/La_Pantera_Rosa/index.m3u8
+#EXTINF:-1,LADY BUG
+https://uruplaytwo.duckdns.org/Ladybug/index.m3u8
+#EXTINF:-1,LE TEMES A LA OSCURIDAD
+https://uruplaytwo.duckdns.org/Le_Temes_a_la_Oscuridad/index.m3u8
+#EXTINF:-1,LOS PICAPIEDRA 
+https://uruplaytwo.duckdns.org/Los_Picapiedra/index.m3u8
+#EXTINF:-1,LOS SIMPSON
+https://uruplaytwo.duckdns.org/Los_Simpson/index.m3u8
+#EXTINF:-1,LOS SIMPSON HD
+https://uruplaytwo.duckdns.org/Los_Simpson_HD/index.m3u8
+#EXTINF:-1,LOS SIMPSON NEW HD
+https://uruplaytwo.duckdns.org/Los_Simpson_New_HD/index.m3u8
+#EXTINF:-1,LOS SIMPSON HORROR
+https://uruplaytwo.duckdns.org/Los_Simpsons_Casitas_del_Horror/index.m3u8
+#EXTINF:-1,THUNDERCATS
+https://uruplaytwo.duckdns.org/Los_Thundercats/index.m3u8
+#EXTINF:-1,MASHA Y EL OSO 
+https://uruplaytwo.duckdns.org/MASHA_Y_EL_OSO/index.m3u8
+#EXTINF:-1,MI BELLA GENIO 
+https://uruplaytwo.duckdns.org/Mi_Bella_Genio/index.m3u8
+#EXTINF:-1,MR BEAN
+https://uruplaytwo.duckdns.org/Mr_Bean/index.m3u8
+#EXTINF:-1,PEPPA PIG
+https://uruplaytwo.duckdns.org/Peppa_Pig/index.m3u8
+#EXTINF:-1,POKEMON
+https://uruplaytwo.duckdns.org/Pokemon/index.m3u8
+#EXTINF:-1,POWER RANGERS
+https://uruplaytwo.duckdns.org/Power_Rangers/index.m3u8
+#EXTINF:-1,RICK Y MORTY
+https://uruplaytwo.duckdns.org/Rick_y_Morty/index.m3u8
+#EXTINF:-1,SAILOR MOON
+https://uruplaytwo.duckdns.org/Sailor_Moon_Crystal/index.m3u8
+#EXTINF:-1,SOUTH PARK
+https://uruplaytwo.duckdns.org/South_Park/index.m3u8
+#EXTINF:-1, JÓVENES TITANES
+https://uruplaytwo.duckdns.org/Teen_Titans_Go/index.m3u8
+#EXTINF:-1,BIG BAN THEORY
+https://uruplaytwo.duckdns.org/The_Big_Bang_Theory/index.m3u8
+#EXTINF:-1, WALKING DEAD
+https://uruplaytwo.duckdns.org/Thealking_Dead/index.m3u8
+#EXTINF:-1,VACA Y POLLITO 
+https://uruplaytwo.duckdns.org/Vaca_y_Pollito/index.m3u8
+#EXTINF:-1,YU GI OH
+https://uruplaytwo.duckdns.org/Yu_Gi_Oh/index.m3u8
+#EXTINF:-1,XMEN
+https://uruplaytwo.duckdns.org/_xmen/index.m3u8
+#EXTINF:-1,CINE ACCION 
+https://uruplaytwo.duckdns.org/CINE_ACCION_HD/index.m3u8
+#EXTINF:-1,CINE COMEDIA
+https://uruplaytwo.duckdns.org/CINE_COMEDIA_2/index.m3u8
+#EXTINF:-1,CINE ROMANCE
+https://uruplaytwo.duckdns.org/CINE_ROMANCE/index.m3u8
+#EXTINF:-1,CINE ROMANCE HD
+https://uruplaytwo.duckdns.org/CINE_ROMANCE_HD/index.m3u8
+#EXTINF:-1, CINE TERROR 
+https://uruplaytwo.duckdns.org/CINE_TERROR/index.m3u8
+#EXTINF:-1,CINE TERROR HD
+https://uruplaytwo.duckdns.org/CINE_TERROR_HD/index.m3u8
+#EXTINF:-1,EL CHAPULÍN COLORADO 
+https://uruplaytwo.duckdns.org/El_chapulin_colorado/index.m3u8
+#EXTINF:-1,X MEN
+https://uruplaytwo.duckdns.org/X-Men_Cartoon/index.m3u8
+#EXTINF:-1,VAMPIRINA
+https://uruplaytwo.duckdns.org/Vampirina/index.m3u8
+#EXTINF:-1,HORA DE AVENTURA 
+https://uruplaytwo.duckdns.org/Adventure_Time/index.m3u8
+#EXTINF:-1, SPIDER MAN
+https://uruplaytwo.duckdns.org/Spider_Man/index.m3u8
+#EXTINF:-1,TOM Y JERRY
+https://uruplaytwo.duckdns.org/Tom_And_Jerry/index.m3u8
+#EXTINF:-1,TRANSFORMERS
+https://uruplaytwo.duckdns.org/Transformers_Prime/index.m3u8
+#EXTINF:-1,SUPER CAMPEONES
+https://uruplaytwo.duckdns.org/Super_campeones/index.m3u8
+#EXTINF:-1,DISNEY MOVIES
+https://uruplaytwo.duckdns.org/Disney_Movies/index.m3u8
+#EXTINF:-1,MINDER
+https://uruplaytwo.duckdns.org/Minder/index.m3u8
+#EXTINF:-1, NARUTO 
+https://uruplaytwo.duckdns.org/naruto/index.m3u8
+#EXTINF:-1, PELICULAS ESTRENOS 
+https://uruplaytwo.duckdns.org/peliculas_estrenos/index.m3u8
+#EXTINF:-1,PINKI
+https://uruplaytwo.duckdns.org/pinky/index.m3u8
+#EXTINF:-1,LOS LOCOS ADAMS
+https://uruplaytwo.duckdns.org/Los_locos_Addams/index.m3u8
+#EXTINF:-1,MALCOM
+https://uruplaytwo.duckdns.org/Malcolm/index.m3u8
+#EXTINF:-1,MAZINGER Z
+https://uruplaytwo.duckdns.org/Mazingerz/index.m3u8
+#EXTINF:-1,EL CHAVO DEL OCHO
+https://uruplaytwo.duckdns.org/El_chavo_del_8/index.m3u8
+#EXTINF:-1,HBO
+https://uruplaytwo.duckdns.org/HBO/index.m3u8
+#EXTINF:-1,HBO PLUS
+https://uruplaytwo.duckdns.org/HBOPLUS/index.m3u8
+#EXTINF:-1,HBO 2
+https://uruplaytwo.duckdns.org/HBO_2/index.m3u8
+#EXTINF:-1,HBO FAMILY
+https://uruplaytwo.duckdns.org/HBO_Family/index.m3u8
+#EXTINF:-1,HBO MUNDI
+https://uruplaytwo.duckdns.org/HBO_Mundi/index.m3u8
+#EXTINF:-1,HBO POP
+https://uruplaytwo.duckdns.org/HBO_POP/index.m3u8
+#EXTINF:-1,HBO SIGNATURE
+https://uruplaytwo.duckdns.org/HBO_Signature/index.m3u8
+#EXTINF:-1,HBO XTREME 
+https://uruplaytwo.duckdns.org/HBO_Xtreme/index.m3u8
+#EXTINF:-1,STARZ ENCORE
+https://uruplaytwo.duckdns.org/Starz_Encore_HD/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL 
+https://uruplaytwo.duckdns.org/Studio_Universal/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL JD
+https://uruplaytwo.duckdns.org/Studio_Universal_HD/in..
+#EXTINF:-1,SYFY
+https://uruplaytwo.duckdns.org/SYFY/index.m3u8
+#EXTINF:-1,TCM
+https://uruplaytwo.duckdns.org/TCM/index.m3u8
+#EXTINF:-1,TNT
+https://uruplaytwo.duckdns.org/TNT/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA 
+https://uruplaytwo.duckdns.org/Universal_Cinema/index.m3u8
+#EXTINF:-1, UNIVERSAL COMEDY
+https://uruplaytwo.duckdns.org/Universal_Comedy/index.m3u8
+#EXTINF:-1, UNIVERSAL CRIMEN ESTE
+https://uruplaytwo.duckdns.org/Universal_Crime_Este/index.m3u8
+#EXTINF:-1, UNIVERSAL CRIMEN
+https://uruplaytwo.duckdns.org/Universal_Crime_Oeste/index.m3u8
+#EXTINF:-1, UNIVERSAL PREMIER 
+https://uruplaytwo.duckdns.org/Universal_Premier/index.m3u8
+#EXTINF:-1,UNIVERSAL REALITY
+https://uruplaytwo.duckdns.org/Universal_Reality/index.m3u8
+#EXTINF:-1, UNIVERSAL TV
+https://uruplaytwo.duckdns.org/Universal_TV_HD/index...
+#EXTINF:-1,HISTORY
+https://uruplaytwo.duckdns.org/History_FHD/index.m3u8
+#EXTINF:-1,HISTORY 2
+https://uruplaytwo.duckdns.org/History2_FHD/index.m3u8
+#EXTINF:-1,WOBI FHD
+https://uruplaytwo.duckdns.org/Wobi_FHD/index.m3u8
+#EXTINF:-1, DISCOVERY CHANNEL
+https://uruplaytwo.duckdns.org/Discovery_Channel_CO_FHD/index.m3u8
+#EXTINF:-1,AMC FHD
+https://uruplaytwo.duckdns.org/AMC_FHD/index.m3u8
+#EXTINF:-1,AXN FHD
+https://uruplaytwo.duckdns.org/AXN_FHD/index.m3u8
+#EXTINF:-1, FX FHD
+https://uruplaytwo.duckdns.org/FX_FHD/index.m3u8
+#EXTINF:-1,TRUTV FHD
+https://uruplaytwo.duckdns.org/Tru_TV_FHD/index.m3u8
+FOX SPORT 2
+https://uruplaytwo.duckdns.org/Fox_Sports_2/index.m3u8
+#EXTINF:-1,FOX SPORT 3
+https://uruplaytwo.duckdns.org/Fox_Sports_3/index.m3u8
+#EXTINF:-1,CAZA Y PESCA 
+https://uruplaytwo.duckdns.org/Caza_y_pesca_FHD/index..
+#EXTINF:-1,EUROSPORT
+https://uruplaytwo.duckdns.org/Eurosport_FHD/index.m3u8
+#EXTINF:-1,EUROSPORT 2
+https://uruplaytwo.duckdns.org/EUROSPORT_2/index.m3u8
+#EXTINF:-1,FUTV FHD
+https://uruplaytwo.duckdns.org/FUTV_FHD/index.m3u8
+#EXTINF:-1, ADRENALINA SPORT
+https://uruplaytwo.duckdns.org/Adrenalina_Sports_FHD/..
+#EXTINF:-1,AFIZZIONADOS
+https://uruplaytwo.duckdns.org/Afizzionados_FHD/index.m3u8
+#EXTINF:-1,ESPN 3
+https://uruplaytwo.duckdns.org/Espn_3/index.m3u8
+#EXTINF:-1,ESPN 2
+https://uruplaytwo.duckdns.org/Espn_2/index.m3u8
+#EXTINF:-1,ESPN
+https://uruplaytwo.duckdns.org/Espn/index.m3u8
+#EXTINF:-1,ESPN PLUS
+https://uruplaytwo.duckdns.org/Espn_Plus/index.m3u8
+#EXTINF:-1,TNT SPORT
+https://uruplaytwo.duckdns.org/TNT_Sports/index.m3u8
+#EXTINF:-1, GOLDEN PLUS
+https://uruplaytwo.duckdns.org/Golden_Plus_FHD/index...
+#EXTINF:-1,SYFY FHD
+https://uruplaytwo.duckdns.org/SYFY_FHD/index.m3u8
+#EXTINF:-1,DEPELICULA
+https://uruplaytwo.duckdns.org/De_Pelicula_FHD/index...
+#EXTINF:-1,CLARO SPORT
+https://uruplaytwo.duckdns.org/Claro_Sports_Latinoame..
+#EXTINF:-1,FOX SPORT
+https://uruplaytwo.duckdns.org/Fox_Sports/index.m3u8
+#EXTINF:-1,TUDN FHD
+https://uruplaytwo.duckdns.org/TUDN_FHD/index.m3u8
+#EXTINF:-1,FOX SPORT
+https://uruplaytwo.duckdns.org/Fox__Sports/index.m3u8
+#EXTINF:-1,A SPORT
+https://uruplaytwo.duckdns.org/AyM_Sports_FHD/index.m..
+#EXTINF:-1,SONY FHD
+https://uruplaytwo.duckdns.org/Sony_FHD/index.m3u8
+#EXTINF:-1,TNT SERIES
+https://uruplaytwo.duckdns.org/TNT_Series/index.m3u8
+#EXTINF:-1,CINEMAX FHD
+https://uruplaytwo.duckdns.org/Cinemax_FHD/index.m3u8
+#EXTINF:-1,ESPN ARG
+https://uruplaytwo.duckdns.org/EspnARG_FHD/index.m3u8
+#EXTINF:-1,DIRECTV
+https://uruplaytwo.duckdns.org/DIRECTV_SPORTS/index.m..
+#EXTINF:-1,FOX SPORT
+https://uruplaytwo.duckdns.org/FOX_Sports_Premium/ind..
+#EXTINF:-1, ESPN EXTRA
+https://uruplaytwo.duckdns.org/Espn_EXTRA/index.m3u8
