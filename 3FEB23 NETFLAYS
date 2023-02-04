@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,Distrito Comedia
 http://191.97.56.146:8000/play/a087/index.m3u8
 #EXTINF:-1,Distrito Comedia
@@ -12,8 +11,6 @@ http://181.189.246.86:58004/play/a00l/index.m3u8
 http://181.189.246.86:58004/play/a00k/index.m3u8
 #EXTINF:-1,CANAL 5 (MEXICO)
 http://181.189.246.86:58004/play/a00q/index.m3u8
-
-#EXTINF:-1, DEPORTES
 #EXTINF:-1,ESPN +
 http://181.189.246.86:58003/play/a012/index.m3u8
 #EXTINF:-1,ESPN 2 HD
@@ -116,6 +113,16 @@ http://200.24.204.242:6020/play/a0ay/index.m3u8
 http://181.189.246.86:58004/play/a001/index.m3u8
 #EXTINF:-1,ESPN SUR
 http://181.189.246.86:58004/play/a009/index.m3u8
+#EXTINF:-1,ESPN +
+http://181.189.246.86:58003/play/a012/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://181.189.246.86:58003/play/a02j/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://181.189.246.86:58003/play/a02i/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://181.189.246.86:58003/play/a02e/index.m3u8
+#EXTINF:-1,ESPN HD
+http://181.189.246.86:58003/play/a02h/index.m3u8
 #EXTINF:-1,ESPN USA
 http://181.189.246.86:58004/play/a00a/index.m3u8
 #EXTINF:-1,Futbol Total
@@ -162,7 +169,6 @@ http://200.24.204.242:6020/play/a0eb/index.m3u8
 http://200.24.204.242:6020/play/a08q/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://200.24.204.242:6020/play/a0e9/index.m3u8
-#EXTINF:-1,CANALES CINE Y SERIES 
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ou.png",HBO Family HD
 http://181.189.243.254:8000/play/a0ou/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0or.png",HBO HD
