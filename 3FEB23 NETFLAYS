@@ -96,8 +96,6 @@ http://181.189.243.254:8000/play/a0t4/index.m3u8
 http://181.189.246.86:58004/play/a009/index.m3u8
 #EXTINF:-1,ESPN USA
 http://181.189.246.86:58004/play/a00a/index.m3u8
-
-
 #EXTINF:-1,Fox Sports 3 HD
 http://191.97.56.146:8000/play/a05w/index.m3u8
 #EXTINF:-1,Fox Sports 1
@@ -301,7 +299,6 @@ http://200.24.204.242:6020/play/a0c1/index.m3u8
 http://200.24.204.242:6020/play/a0bc/index.m3u8
 #EXTINF:-1,Cartoonito
 http://200.24.204.242:6020/play/a0aw/index.m3u8
-
 #EXTINF:-1,Discovery Channel
 http://200.24.204.242:6020/play/a0cc/index.m3u8
 #EXTINF:-1,Discovery Kids
@@ -310,7 +307,6 @@ http://200.24.204.242:6020/play/a0c8/index.m3u8
 http://200.24.204.242:6020/play/a0cy/index.m3u8
 #EXTINF:-1,Disney Junior
 http://200.24.204.242:6020/play/a097/index.m3u8
-
 #EXTINF:-1,Animal Planet HD
 http://191.97.56.146:8000/play/a061/index.m3u8
 #EXTINF:-1,Cartoon Network HD
