@@ -1,20 +1,28 @@
 #EXTM3U
+
 #EXTINF:-1,Distrito Comedia
 http://191.97.56.146:8000/play/a087/index.m3u8
+
 #EXTINF:-1,Distrito Comedia
 http://200.24.204.242:6020/play/a0dk/index.m3u8
+
 #EXTINF:-1, CANAL MX NUESTRO CINE  22.2
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+
 #EXTINF:-1,AZTECA 7 HD MEXICO
 http://181.189.246.86:58004/play/a00l/index.m3u8
+
 #EXTINF:-1,AZTECA UNO MEXICO
 http://181.189.246.86:58004/play/a00k/index.m3u8
 #EXTINF:-1,CANAL 5 (MEXICO)
 http://181.189.246.86:58004/play/a00q/index.m3u8
+
 #EXTINF:-1,ESPN +
 http://181.189.246.86:58003/play/a012/index.m3u8
+
 #EXTINF:-1,ESPN 2 HD
 http://181.189.246.86:58003/play/a02j/index.m3u8
+
 #EXTINF:-1,ESPN 3 HD
 http://181.189.246.86:58003/play/a02i/index.m3u8
 #EXTINF:-1,ESPN 4 HD
@@ -207,14 +215,19 @@ http://181.39.202.98:9948/play/a11z/index.m3u8
 http://181.39.202.98:9948/play/a14f/index.m3u8
 #EXTINF:-1,HBO HD
 http://181.39.202.98:9948/play/a14h/index.m3u8
+
 #EXTINF:-1,HBO POP HD
 http://181.39.202.98:9948/play/a10p/index.m3u8
+
 #EXTINF:-1,HBO Plus HD
 http://181.39.202.98:9948/play/a14j/index.m3u8
+
 #EXTINF:-1,HBO XTREME
 http://181.39.202.98:9948/play/a14g/index.m3u8
+
 #EXTINF:-1,HBO2 HD
 http://181.39.202.98:9948/play/a14i/index.m3u8
+
 #EXTINF:-1,Universal
 http://204.157.255.31:20001/play/a02w/index.m3u8
 #EXTINF:-1,Warner
