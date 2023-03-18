@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,DISTRITO COMEDIA
+http://45.228.234.153:33000/play/a0oq/index.m3u8
 #EXTINF:-1,A&E HD
 http://170.247.204.18:8000/play/aehd/index.m3u8
 #EXTINF:-1,AMC HD
@@ -47,27 +49,27 @@ http://170.247.204.18:8000/play/a05b/index.m3u8
 http://170.247.204.18:8000/play/disneyhd/index.m3u8
 #EXTINF:-1,E! HD
 http://170.247.204.18:8000/play/a0f2/index.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 group-title="Deportes", ESPN 2 HD
 http://170.247.204.18:8000/play/a0ax/index.m3u8
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 group-title="Deportes", ESPN 3 HD
 http://170.247.204.18:8000/play/espn3hd/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
+#EXTINF:-1 group-title="Deportes",  ESPN EXTRA HD
 http://170.247.204.18:8000/play/a05e/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 group-title="Deportes", ESPN HD
 http://170.247.204.18:8000/play/a06j/index.m3u8
 #EXTINF:-1,El Gourmet HD
 http://170.247.204.18:8000/play/a074/index.m3u8
 #EXTINF:-1,FOX HD
 http://170.247.204.18:8000/play/a0ao/index.m3u8
-#EXTINF:-1,FOX Sports 2 HD
+#EXTINF:-1 group-title="Deportes", FOX Sports 2 HD
 http://170.247.204.18:8000/play/a0at/index.m3u8
 #EXTINF:-1,FX HD
 http://170.247.204.18:8000/play/a0aw/index.m3u8
 #EXTINF:-1,Food Network HD
 http://170.247.204.18:8000/play/foodnetworkhd/index.m3u8
-#EXTINF:-1,Fox Sports 1 HD
+#EXTINF:-1 group-title="Deportes", Fox Sports 1 HD
 http://170.247.204.18:8000/play/a07k/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
+#EXTINF:-1 group-title="Deportes", Fox Sports 3 HD
 http://170.247.204.18:8000/play/foxsports3hd/index.m3u8
 #EXTINF:-1,Golden HD
 http://170.247.204.18:8000/play/a0f1/index.m3u8
@@ -171,13 +173,13 @@ http://181.177.143.70:8000/play/a00d/index.m3u8
 http://181.177.143.70:8000/play/a01g/index.m3u8
 #EXTINF:-1,Disney JR
 http://181.177.143.70:8000/play/a01e/index.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1 group-title="Deportes", ESPN 4 HD
 http://181.177.143.70:8000/play/a01j/index.m3u8
 #EXTINF:-1,Europa HD
 http://181.177.143.70:8000/play/a024/index.m3u8
 #EXTINF:-1,Exa TV
 http://181.177.143.70:8000/play/a02g/index.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD
+#EXTINF:-1 group-title="Deportes", FOX SPORTS 3 HD
 http://181.177.143.70:8000/play/a01h/index.m3u8
 #EXTINF:-1,FX HD
 http://181.177.143.70:8000/play/a01a/index.m3u8
@@ -237,7 +239,7 @@ http://179.43.82.250:8000/play/a08u/index.m3u8
 http://179.43.82.250:8000/play/a029/index.m3u8
 #EXTINF:-1,AmericaTV
 http://179.43.82.250:8000/play/a01z/index.m3u8
-#EXTINF:-1,AmØrica Televisiðn
+#EXTINF:-1,AmØrica Television
 http://179.43.82.250:8000/play/a08p/index.m3u8
 #EXTINF:-1,Animal Planet
 http://179.43.82.250:8000/play/a01b/index.m3u8
@@ -267,33 +269,33 @@ http://179.43.82.250:8000/play/a019/index.m3u8
 http://179.43.82.250:8000/play/a05y/index.m3u8
 #EXTINF:-1,E Entertainment
 http://179.43.82.250:8000/play/a01d/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="Deportes",  ESPN
 http://179.43.82.250:8000/play/a01g/index.m3u8
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 group-title="Deportes", ESPN 2
 http://179.43.82.250:8000/play/a060/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
+#EXTINF:-1 group-title="Deportes",  ESPN 2 Latin
 http://179.43.82.250:8000/play/a01f/index.m3u8
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 group-title="Deportes",  ESPN 3
 http://179.43.82.250:8000/play/a02h/index.m3u8
-#EXTINF:-1,ESPN 4
+#EXTINF:-1 group-title="Deportes", ESPN 4
 http://179.43.82.250:8000/play/a022/index.m3u8
 #EXTINF:-1,Enlace
 http://179.43.82.250:8000/play/a00j/index.m3u8
 #EXTINF:-1,FX
 http://179.43.82.250:8000/play/a02b/index.m3u8
-#EXTINF:-1,Fox Sports 2
+#EXTINF:-1 group-title="Deportes", Fox Sports 2
 http://179.43.82.250:8000/play/a01o/index.m3u8
-#EXTINF:-1,Fox Sports 2
+#EXTINF:-1 group-title="Deportes", Fox Sports 2
 http://179.43.82.250:8000/play/a06u/index.m3u8
-#EXTINF:-1,Fox Sports 3
+#EXTINF:-1 group-title="Deportes", Fox Sports 3
 http://179.43.82.250:8000/play/a01p/index.m3u8
-#EXTINF:-1,Fox Sports 3
+#EXTINF:-1 group-title="Deportes",Fox Sports 3
 http://179.43.82.250:8000/play/a08g/index.m3u8
 #EXTINF:-1,GLOBAL
 http://179.43.82.250:8000/play/a08v/index.m3u8
-#EXTINF:-1,GOLPERU
+#EXTINF:-1 group-title="Deportes", GOLPERU
 http://179.43.82.250:8000/play/a07y/index.m3u8
-#EXTINF:-1,Gol TV
+#EXTINF:-1 group-title="Deportes", Gol TV
 http://179.43.82.250:8000/play/a08f/index.m3u8
 #EXTINF:-1,HBO
 http://179.43.82.250:8000/play/a054/index.m3u8
@@ -315,7 +317,7 @@ http://179.43.82.250:8000/play/a008/index.m3u8
 http://179.43.82.250:8000/play/a01y/index.m3u8
 #EXTINF:-1,Lifetime
 http://179.43.82.250:8000/play/a00m/index.m3u8
-#EXTINF:-1,Movistar Deportes
+#EXTINF:-1 group-title="Deportes", Movistar Deportes
 http://179.43.82.250:8000/play/a08o/index.m3u8
 #EXTINF:-1,Nat Geo
 http://179.43.82.250:8000/play/a004/index.m3u8
@@ -461,13 +463,13 @@ http://168.228.194.117:58001/play/a02x/index.m3u8
 http://168.228.194.117:58001/play/a031/index.m3u8
 #EXTINF:-1,E! Entertairment HD
 http://168.228.194.117:58001/play/a028/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="Deportes", ESPN
 http://168.228.194.117:58001/play/a039/index.m3u8
-#EXTINF:-1,ESPN +
+#EXTINF:-1 group-title="Deportes",  ESPN +
 http://168.228.194.117:58001/play/a01k/index.m3u8
-#EXTINF:-1,ESPN 3
+#EXTINF:-1  group-title="Deportes",ESPN 3
 http://168.228.194.117:58001/play/a01u/index.m3u8
-#EXTINF:-1,ESPN2
+#EXTINF:-1 group-title="Deportes", ESPN2
 http://168.228.194.117:58001/play/a038/index.m3u8
 #EXTINF:-1,EURO Channel
 http://168.228.194.117:58001/play/a01r/index.m3u8
@@ -475,7 +477,7 @@ http://168.228.194.117:58001/play/a01r/index.m3u8
 http://168.228.194.117:58001/play/a01i/index.m3u8
 #EXTINF:-1,El Gourmet
 http://168.228.194.117:58001/play/a05l/index.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
+#EXTINF:-1 group-title="Deportes", FOX SPORTS 2 HD
 http://168.228.194.117:58001/play/a02j/index.m3u8
 #EXTINF:-1,FX
 http://168.228.194.117:58001/play/a01p/index.m3u8
@@ -483,9 +485,9 @@ http://168.228.194.117:58001/play/a01p/index.m3u8
 http://168.228.194.117:58001/play/a02e/index.m3u8
 #EXTINF:-1,Film & Arts
 http://168.228.194.117:58001/play/a008/index.m3u8
-#EXTINF:-1,Fox Sport 3
+#EXTINF:-1  group-title="Deportes", Fox Sport 3
 http://168.228.194.117:58001/play/a01b/index.m3u8
-#EXTINF:-1,Fox Sports
+#EXTINF:-1  group-title="Deportes", Fox Sports
 http://168.228.194.117:58001/play/a04y/index.m3u8
 #EXTINF:-1,Golden
 http://168.228.194.117:58001/play/a01x/index.m3u8
@@ -615,7 +617,7 @@ http://45.228.234.153:33000/play/a0od/index.m3u8
 http://45.228.234.153:33000/play/a0n4/index.m3u8
 #EXTINF:-1,Azcorazon
 http://45.228.234.153:33000/play/a0lw/index.m3u8
-#EXTINF:-1,Bein Sports La Liga
+#EXTINF:-1 group-title="Deportes", Bein Sports La Liga
 http://45.228.234.153:33000/play/a0oj/index.m3u8
 #EXTINF:-1,CINECANAL HD
 http://45.228.234.153:33000/play/a0ne/index.m3u8
@@ -643,9 +645,7 @@ http://45.228.234.153:33000/play/a0o6/index.m3u8
 http://45.228.234.153:33000/play/a0o7/index.m3u8
 #EXTINF:-1,Concert Channel
 http://45.228.234.153:33000/play/a0o2/index.m3u8
-#EXTINF:-1,DISTRITO COMEDIA
-http://45.228.234.153:33000/play/a0oq/index.m3u8
-#EXTINF:-1,Direc TV
+#EXTINF:-1 group-title="Deportes", Direc TV
 http://45.228.234.153:33000/play/a0og/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://45.228.234.153:33000/play/a0n3/index.m3u8
@@ -661,15 +661,15 @@ http://45.228.234.153:33000/play/a0nt/index.m3u8
 http://45.228.234.153:33000/play/a0lr/index.m3u8
 #EXTINF:-1,E!
 http://45.228.234.153:33000/play/a0n0/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="Deportes", ESPN
 http://45.228.234.153:33000/play/a0n7/index.m3u8
-#EXTINF:-1,ESPN +
+#EXTINF:-1 group-title="Deportes", ESPN +
 http://45.228.234.153:33000/play/a0me/index.m3u8
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 group-title="Deportes", ESPN 2
 http://45.228.234.153:33000/play/a0n8/index.m3u8
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 group-title="Deportes", ESPN 3
 http://45.228.234.153:33000/play/a0l1/index.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1 group-title="Deportes", ESPN 4 HD
 http://45.228.234.153:33000/play/a0oc/index.m3u8
 #EXTINF:-1,EURO Channel
 http://45.228.234.153:33000/play/a0kx/index.m3u8
@@ -679,11 +679,11 @@ http://45.228.234.153:33000/play/a0mc/index.m3u8
 http://45.228.234.153:33000/play/a0kz/index.m3u8
 #EXTINF:-1,Exa TV
 http://45.228.234.153:33000/play/a0n9/index.m3u8
-#EXTINF:-1,FOX Sports 2
+#EXTINF:-1 group-title="Deportes", FOX Sports 2
 http://45.228.234.153:33000/play/a0l2/index.m3u8
 #EXTINF:-1,FX
 http://45.228.234.153:33000/play/a0kv/index.m3u8
-#EXTINF:-1,Fox Sport 3
+#EXTINF:-1 group-title="Deportes",  Fox Sport 3
 http://45.228.234.153:33000/play/a0m2/index.m3u8
 #EXTINF:-1,Golden
 http://45.228.234.153:33000/play/a0l8/index.m3u8
@@ -715,9 +715,9 @@ http://45.228.234.153:33000/play/a0m0/index.m3u8
 http://45.228.234.153:33000/play/a0lp/index.m3u8
 #EXTINF:-1,Nickelodeon
 http://45.228.234.153:33000/play/a0ns/index.m3u8
-#EXTINF:-1,PREMIER LEAGUE
+#EXTINF:-1 group-title="Deportes",PREMIER LEAGUE
 http://45.228.234.153:33000/play/a0oh/index.m3u8
-#EXTINF:-1,PREMIER LEAGUE2
+#EXTINF:-1 group-title="Deportes",PREMIER LEAGUE2
 http://45.228.234.153:33000/play/a0om/index.m3u8
 #EXTINF:-1,PXTV
 http://45.228.234.153:33000/play/a0l3/index.m3u8
@@ -725,7 +725,7 @@ http://45.228.234.153:33000/play/a0l3/index.m3u8
 http://45.228.234.153:33000/play/a0kw/index.m3u8
 #EXTINF:-1,SEMILLITAS
 http://45.228.234.153:33000/play/a0lt/index.m3u8
-#EXTINF:-1,SKY
+#EXTINF:-1 group-title="Deportes", SKY
 http://45.228.234.153:33000/play/a0oi/index.m3u8
 #EXTINF:-1,SONY HD
 http://45.228.234.153:33000/play/a0nd/index.m3u8
@@ -749,7 +749,7 @@ http://45.228.234.153:33000/play/a0op/index.m3u8
 http://45.228.234.153:33000/play/a0m6/index.m3u8
 #EXTINF:-1,TNT Series
 http://45.228.234.153:33000/play/a0ly/index.m3u8
-#EXTINF:-1,TUDN
+#EXTINF:-1 group-title="Deportes", TUDN
 http://45.228.234.153:33000/play/a0ok/index.m3u8
 #EXTINF:-1,TVE
 http://45.228.234.153:33000/play/a0oa/index.m3u8
@@ -757,7 +757,7 @@ http://45.228.234.153:33000/play/a0oa/index.m3u8
 http://45.228.234.153:33000/play/a0lv/index.m3u8
 #EXTINF:-1,Telemundo Inter
 http://45.228.234.153:33000/play/a0of/index.m3u8
-#EXTINF:-1,Tigo Gua
+#EXTINF:-1  group-title="Deportes",Tigo Gua
 http://45.228.234.153:33000/play/a0oo/index.m3u8
 #EXTINF:-1,Tooncast
 http://45.228.234.153:33000/play/a0mw/index.m3u8
@@ -785,11 +785,11 @@ http://45.181.122.145:8000/play/a007/index.m3u8
 http://45.181.122.145:8000/play/a00d/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://45.181.122.145:8000/play/a006/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
+#EXTINF:-1 group-title="Deportes",  ESPN EXTRA HD
 http://45.181.122.145:8000/play/a009/index.m3u8
 #EXTINF:-1,FX Movies HD
 http://45.181.122.145:8000/play/a00j/index.m3u8
-#EXTINF:-1,Fox Sports 1 HD
+#EXTINF:-1 group-title="Deportes", Fox Sports 1 HD
 http://45.181.122.145:8000/play/a00w/index.m3u8
 #EXTINF:-1,HBO 2 HD
 http://45.181.122.145:8000/play/a00k/index.m3u8
@@ -829,9 +829,9 @@ http://45.181.122.145:8000/play/a00g/index.m3u8
 http://45.181.122.145:8000/play/a010/index.m3u8
 #EXTINF:-1,TV+ HD
 http://45.181.122.145:8000/play/a003/index.m3u8
-#EXTINF:-1,UFC HD
+#EXTINF:-1 group-title="Deportes",  UFC HD
 http://45.181.122.145:8000/play/a00a/index.m3u8
-#EXTINF:-1,Win Sports+ HD
+#EXTINF:-1 group-title="Deportes", Win Sports+ HD
 http://45.181.122.145:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Nacionales",LA RED Hd
 http://38.7.221.21:4500/play/a004/index.m3u8
@@ -1131,23 +1131,23 @@ http://38.7.131.2:8000/play/a096/index.m3u8
 http://38.7.131.2:8000/play/a06n/index.m3u8
 #EXTINF:-1,E!
 http://38.7.131.2:8000/play/a064/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1group-title="Deportes", ESPN
 http://38.7.131.2:8000/play/a06b/index.m3u8
-#EXTINF:-1,ESPN +
+#EXTINF:-1group-title="Deportes", ESPN +
 http://38.7.131.2:8000/play/a071/index.m3u8
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 group-title="Deportes",  ESPN 2
 http://38.7.131.2:8000/play/a06c/index.m3u8
-#EXTINF:-1,ESPN 3
+#EXTINF:-1group-title="Deportes", ESPN 3
 http://38.7.131.2:8000/play/a08r/index.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1 group-title="Deportes", ESPN 4 HD
 http://38.7.131.2:8000/play/a09t/index.m3u8
 #EXTINF:-1,EURO Channel
 http://38.7.131.2:8000/play/a0e3/index.m3u8
-#EXTINF:-1,FOX Sports 2
+#EXTINF:-1 group-title="Deportes", FOX Sports 2
 http://38.7.131.2:8000/play/a08s/index.m3u8
 #EXTINF:-1,FX
 http://38.7.131.2:8000/play/a08n/index.m3u8
-#EXTINF:-1,Fox Sport 3
+#EXTINF:-1 group-title="Deportes", Fox Sport 3
 http://38.7.131.2:8000/play/a06t/index.m3u8
 #EXTINF:-1,Golden
 http://38.7.131.2:8000/play/a08w/index.m3u8
@@ -1185,7 +1185,7 @@ http://38.7.131.2:8000/play/a09a/index.m3u8
 http://38.7.131.2:8000/play/a09z/index.m3u8
 #EXTINF:-1,La voz de Maria
 http://38.7.131.2:8000/play/a09b/index.m3u8
-#EXTINF:-1,Latin America Sport
+#EXTINF:-1group-title="Deportes", Latin America Sport
 http://38.7.131.2:8000/play/a08t/index.m3u8
 #EXTINF:-1,MTV 00s
 http://38.7.131.2:8000/play/a08u/index.m3u8
@@ -1231,9 +1231,9 @@ http://38.7.131.2:8000/play/a0c4/index.m3u8
 http://38.7.131.2:8000/play/a06r/index.m3u8
 #EXTINF:-1,TCM
 http://38.7.131.2:8000/play/a08x/index.m3u8
-#EXTINF:-1,TD+2 HD CR
+#EXTINF:-1group-title="Deportes", TD+2 HD CR
 http://38.7.131.2:8000/play/a0d0/index.m3u8
-#EXTINF:-1,TD+HD CR
+#EXTINF:-1group-title="Deportes",  TD+HD CR
 http://38.7.131.2:8000/play/a0cz/index.m3u8
 #EXTINF:-1,TLC
 http://38.7.131.2:8000/play/a06a/index.m3u8
@@ -1293,25 +1293,25 @@ http://190.60.37.187:8000/play/a008/index.m3u8
 http://190.60.37.187:8000/play/a00a/index.m3u8
 #EXTINF:-1,Disney Jr
 http://190.60.37.187:8000/play/a009/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1  group-title="Deportes", ESPN
 http://190.60.37.187:8000/play/a00n/index.m3u8
-#EXTINF:-1,ESPN 2
+#EXTINF:-1  group-title="Deportes",  ESPN 2
 http://190.60.37.187:8000/play/a00d/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
+#EXTINF:-1  group-title="Deportes", ESPN 2 Latin
 http://190.60.37.187:8000/play/a00b/index.m3u8
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 group-title="Deportes",  ESPN 3
 http://190.60.37.187:8000/play/a00s/index.m3u8
-#EXTINF:-1,ESPN 4
+#EXTINF:-1  group-title="Deportes", ESPN 4
 http://190.60.37.187:8000/play/a00c/index.m3u8
-#EXTINF:-1,ESPN CO
+#EXTINF:-1  group-title="Deportes", ESPN CO
 http://190.60.37.187:8000/play/a00p/index.m3u8
 #EXTINF:-1,Enlace
 http://190.60.37.187:8000/play/a00m/index.m3u8
 #EXTINF:-1,FX
 http://190.60.37.187:8000/play/a00r/index.m3u8
-#EXTINF:-1,Fox Sports 2
+#EXTINF:-1  group-title="Deportes", Fox Sports 2
 http://190.60.37.187:8000/play/a00t/index.m3u8
-#EXTINF:-1,Fox Sports 3
+#EXTINF:-1  group-title="Deportes", Fox Sports 3
 http://190.60.37.187:8000/play/a00u/index.m3u8
 #EXTINF:-1,History Channel
 http://190.60.37.187:8000/play/a00v/index.m3u8
@@ -1387,23 +1387,23 @@ http://190.2.212.210:8037/play/a01v/index.m3u8
 http://190.2.212.210:8037/play/a01r/index.m3u8
 #EXTINF:-1,E Entertainment
 http://190.2.212.210:8037/play/a01z/index.m3u8
-#EXTINF:-1,ESPN 2
+#EXTINF:-1  group-title="Deportes", ESPN 2
 http://190.2.212.210:8037/play/a01t/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
+#EXTINF:-1   group-title="Deportes", ESPN 2 Latin
 http://190.2.212.210:8037/play/a021/index.m3u8
-#EXTINF:-1,ESPN 3-
+#EXTINF:-1  group-title="Deportes",ESPN 3
 http://190.2.212.210:8037/play/a042/index.m3u8
-#EXTINF:-1,ESPN 4-
+#EXTINF:-1  group-title="Deportes",ESPN 4
 http://190.2.212.210:8037/play/a02e/index.m3u8
-#EXTINF:-1,ESPN-
+#EXTINF:-1group-title="Deportes", ESPN
 http://190.2.212.210:8037/play/a022/index.m3u8
 #EXTINF:-1,Enlace
 http://190.2.212.210:8037/play/a01g/index.m3u8
 #EXTINF:-1,FX
 http://190.2.212.210:8037/play/a03y/index.m3u8
-#EXTINF:-1,Fox Sports 2
+#EXTINF:-1group-title="Deportes", Fox Sports 2
 http://190.2.212.210:8037/play/a027/index.m3u8
-#EXTINF:-1,Fox Sports 3
+#EXTINF:-1group-title="Deportes", Fox Sports 3
 http://190.2.212.210:8037/play/a028/index.m3u8
 #EXTINF:-1,History Channel
 http://190.2.212.210:8037/play/a017/index.m3u8
@@ -1455,7 +1455,6 @@ http://190.2.212.210:8037/play/a029/index.m3u8
 http://190.2.212.210:8037/play/a019/index.m3u8
 #EXTINF:-1,Warner
 http://190.2.212.210:8037/play/a01y/index.m3u8
-#EXTM3U
 #EXTINF:-1,GoldenEdge2
 http://190.2.209.158:4000/play/goldenedge2/index.m3u8
 #EXTINF:-1,abn
@@ -1508,15 +1507,15 @@ http://190.2.209.158:4000/play/dw/index.m3u8
 http://190.2.209.158:4000/play/enlace/index.m3u8
 #EXTINF:-1,enlacejuvenil
 http://190.2.209.158:4000/play/enlacejuvenil/index.m3u8
-#EXTINF:-1,espn
+#EXTINF:-1group-title="Deportes", espn
 http://190.2.209.158:4000/play/espn/index.m3u8
-#EXTINF:-1,espn2
+#EXTINF:-1group-title="Deportes", espn2
 http://190.2.209.158:4000/play/espn2/index.m3u8
-#EXTINF:-1,espn3
+#EXTINF:-1group-title="Deportes",  espn3
 http://190.2.209.158:4000/play/espn3/index.m3u8
-#EXTINF:-1,espn4
+#EXTINF:-1group-title="Deportes",espn4
 http://190.2.209.158:4000/play/espn4/index.m3u8
-#EXTINF:-1,espnextra
+#EXTINF:-1group-title="Deportes"  ,espnextra
 http://190.2.209.158:4000/play/espnextra/index.m3u8
 #EXTINF:-1,ewtn
 http://190.2.209.158:4000/play/ewtn/index.m3u8
@@ -1694,17 +1693,17 @@ http://186.190.231.179:8000/play/a020/index.m3u8
 http://186.190.231.179:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="E Entertainment",E Entertainment
 http://186.190.231.179:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-id="ESPN",ESPN
+#EXTINF:-1 group-title="Deportes",ESPN
 http://186.190.231.179:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2",ESPN 2
 http://186.190.231.179:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 2 Latin",ESPN 2 Latin
+#EXTINF:-1 group-title="Deportes",ESPN 2 Latin
 http://186.190.231.179:8000/play/a026/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 3",ESPN 3
+#EXTINF:-1 group-title="Deportes",ESPN 3
 http://186.190.231.179:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 4",ESPN 4
+#EXTINF:-1 group-title="Deportes",ESPN 4
 http://186.190.231.179:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-id="ESPN CO",ESPN CO
+#EXTINF:-1 group-title="Deportes",ESPN CO
 http://186.190.231.179:8000/play/a02r/index.m3u8
 #EXTINF:-1,EXPLOREMOS
 http://186.190.231.179:8000/play/a04a/index.m3u8
@@ -1714,13 +1713,13 @@ http://186.190.231.179:8000/play/a01a/index.m3u8
 http://186.190.231.179:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="FX",FX
 http://186.190.231.179:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1",Fox Sports 1
+#EXTINF:-1 group-title="Deportes",Fox Sports 1
 http://186.190.231.179:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2",Fox Sports 2
+#EXTINF:-1 group-title="Deportes",Fox Sports 2
 http://186.190.231.179:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 3",Fox Sports 3
+#EXTINF:-1 group-title="Deportes",Fox Sports 3
 http://186.190.231.179:8000/play/a02h/index.m3u8
-#EXTINF:-1 tvg-id="GOL TV",GOL TV
+#EXTINF:-1 group-title="Deportes",GOL TV
 http://186.190.231.179:8000/play/a028/index.m3u8
 #EXTINF:-1,Glitz*
 http://186.190.231.179:8000/play/a04x/index.m3u8
@@ -1798,9 +1797,9 @@ http://186.190.231.179:8000/play/a016/index.m3u8
 http://186.190.231.179:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="TNT",TNT
 http://186.190.231.179:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS 2",TNT SPORTS 2
+#EXTINF:-1 group-title="Deportes",TNT SPORTS 2
 http://186.190.231.179:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS 3",TNT SPORTS 3
+#EXTINF:-1 group-title="Deportes",TNT SPORTS 3
 http://186.190.231.179:8000/play/a02a/index.m3u8
 #EXTINF:-1,TRO
 http://186.190.231.179:8000/play/a050/index.m3u8
@@ -1828,7 +1827,7 @@ http://186.190.231.179:8000/play/a038/index.m3u8
 http://186.190.231.179:8000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="Trece",Trece
 http://186.190.231.179:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="TyC",TyC
+#EXTINF:-1 group-title="Deportes",TyC
 http://186.190.231.179:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="Unicanal",Unicanal
 http://186.190.231.179:8000/play/a03a/index.m3u8
@@ -1838,11 +1837,11 @@ http://186.190.231.179:8000/play/a010/index.m3u8
 http://186.190.231.179:8000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="Warner",Warner
 http://186.190.231.179:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-id="Win",Win
+#EXTINF:-1 group-title="Deportes",Win
 http://186.190.231.179:8000/play/a037/index.m3u8
-#EXTINF:-1,Win Sports+
+#EXTINF:-1 group-title="Deportes",Win Sports+
 http://186.190.231.179:8000/play/a04w/index.m3u8
-#EXTINF:-1,Win Sports+ HD
+#EXTINF:-1 group-title="Deportes",Win Sports+ HD
 http://186.190.231.179:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-id="Zona Latina",Zona Latina
 http://186.190.231.179:8000/play/a013/index.m3u8
