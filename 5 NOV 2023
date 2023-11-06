@@ -1,4 +1,16 @@
 #EXTM3U 
+#EXTINF:-1,180. SKY 
+http://45.228.232.220:40000/play/sjh9/index.m3u8 
+#EXTINF:-1,181. TUDN 
+http://45.228.232.220:40000/play/a0k0/index.m3u8 
+#EXTINF:-1,188 sky sport 
+http://45.228.232.220:40000/play/ljt0/index.m3u8
+#EXTINF:-1,188 sky sport 
+http://45.228.232.219:40000/play/ljt0/index.m3u8
+#EXTINF:-1,180. SKY 
+http://45.228.232.219:40000/play/sjh9/index.m3u8 
+#EXTINF:-1,181. TUDN 
+http://45.228.232.219:40000/play/a0k0/index.m3u8
 #EXTINF:-1,Nat Geo HD 
 http://45.166.92.22:58001/play/a01k/index.m3u8 
 #EXTINF:-1,National Geographic 
@@ -1796,17 +1808,11 @@ http://45.228.232.219:40000/play/a0hp/index.m3u8
 #EXTINF:-1,176. WARNER HD 
 http://45.228.232.219:40000/play/a0i2/index.m3u8 
 #EXTINF:-1,178. TVE 
-http://45.228.232.219:40000/play/a0k2/index.m3u8 
-#EXTINF:-1,180. SKY 
-http://45.228.232.219:40000/play/sjh9/index.m3u8 
-#EXTINF:-1,181. TUDN 
-http://45.228.232.219:40000/play/a0k0/index.m3u8 
+http://45.228.232.219:40000/play/a0k2/index.m3u8  
 #EXTINF:-1,184. CANAL DE LAS ESTRELLA 
 http://45.228.232.219:40000/play/hjkP/index.m3u8 
 #EXTINF:-1,186. DISTRITO COMEDIA
-http://45.228.232.219:40000/play/ihf9/index.m3u8 
-#EXTINF:-1,188 sky sport 
-http://45.228.232.219:40000/play/ljt0/index.m3u8 
+http://45.228.232.219:40000/play/ihf9/index.m3u8  
 #EXTINF:-1,189  Las Estrellas 
 http://45.228.232.219:40000/play/l0hj/index.m3u8 
 #EXTINF:-1,190. tlnovelas 
@@ -2123,16 +2129,10 @@ http://45.228.232.220:40000/play/a0hp/index.m3u8
 http://45.228.232.220:40000/play/a0i2/index.m3u8 
 #EXTINF:-1,178. TVE 
 http://45.228.232.220:40000/play/a0k2/index.m3u8 
-#EXTINF:-1,180. SKY 
-http://45.228.232.220:40000/play/sjh9/index.m3u8 
-#EXTINF:-1,181. TUDN 
-http://45.228.232.220:40000/play/a0k0/index.m3u8 
 #EXTINF:-1,184. CANAL DE LAS ESTRELLA 
 http://45.228.232.220:40000/play/hjkP/index.m3u8 
 #EXTINF:-1,186. DISTRITO COMEDIA
-http://45.228.232.220:40000/play/ihf9/index.m3u8 
-#EXTINF:-1,188 sky sport 
-http://45.228.232.220:40000/play/ljt0/index.m3u8 
+http://45.228.232.220:40000/play/ihf9/index.m3u8  
 #EXTINF:-1,189  Las Estrellas 
 http://45.228.232.220:40000/play/l0hj/index.m3u8 
 #EXTINF:-1,190. tlnovelas 
@@ -3820,7 +3820,6 @@ http://45.169.163.85:8000/play/a02h
 #EXTINF:-1,HBO FAMILY 
 http://45.169.163.85:8000/play/a02i 
 #EXTINF:-1,HBO HD
-
 http://45.169.163.85:8000/play/a01b 
 #EXTINF:-1,HBO PLUS HD 
 http://45.169.163.85:8000/play/a02j 
