@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,A&E HD
 http://168.196.124.211:8000/play/a01j/index.m3u8
 #EXTINF:-1,AMC HD
@@ -128,7 +127,6 @@ http://168.196.124.211:8000/play/a032/index.m3u8
 http://168.196.124.211:8000/play/a02c/index.m3u8
 #EXTINF:-1,WARNER HD
 http://168.196.124.211:8000/play/a03n/index.m3u8
-
 #EXTINF:-1,101-Baby TV
 http://138.186.122.70:8000/play/a02t
 #EXTINF:-1,102-Canal Infantil
@@ -1475,7 +1473,6 @@ http://168.196.124.214:8000/play/a02c/index.m3u8
 http://168.196.124.214:8000/play/a03n/index.m3u8
 #EXTINF:-1,TUDN HD
 http://168.228.193.214:58005/play/a005
-
 #EXTINF:-1,A&E
 http://170.81.147.241:37000/play/a0hn
 #EXTINF:-1,A&E HD
@@ -2022,29 +2019,3 @@ http://170.254.234.244:9000/play/a01e/index.m3u8
 http://170.254.234.244:9000/play/a04r/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://170.254.234.244:9000/play/a03r/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
