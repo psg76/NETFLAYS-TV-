@@ -1,5 +1,180 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="Nacionales",CHV HD 
+http://200.95.184.42:8001/play/a08n 
+#EXTINF:-1 group-title="Nacionales",Canal 13 HD 
+http://200.95.184.42:8001/play/a07a 
+#EXTINF:-1 group-title="Nacionales",La Red HD 
+http://200.95.184.42:8001/play/laredhd 
+#EXTINF:-1 group-title="Nacionales",TV+ HD 
+http://200.95.184.42:8001/play/a058 
+#EXTINF:-1 group-title="Nacionales",TVN HD 
+http://200.95.184.42:8001/play/a06r 
+#EXTINF:-1 group-title="Infantiles",Cartoon Network HD 
+http://200.95.184.42:8001/play/a05i 
+#EXTINF:-1 group-title="Infantiles",Discovery Kids HD 
+http://200.95.184.42:8001/play/a0ak 
+#EXTINF:-1 group-title="Infantiles",Disney HD 
+http://200.95.184.42:8001/play/disneyhd 
+#EXTINF:-1 group-title="Infantiles",Nick HD 
+http://200.95.184.42:8001/play/a06m 
+#EXTINF:-1 group-title="Cultura" tvg-id="animalplanethd",Animal Planet HD 
+http://200.95.184.42:8001/play/animalpla… 
+#EXTINF:-1 group-title="Cultura",Discovery HD 
+http://200.95.184.42:8001/play/a0e1 
+#EXTINF:-1 group-title="Cultura",Discovery Theater HD 
+http://200.95.184.42:8001/play/a0am 
+#EXTINF:-1 group-title="Cultura",Discovery World HD 
+http://200.95.184.42:8001/play/a05b 
+#EXTINF:-1 group-title="Cultura",History 2 HD 
+http://200.95.184.42:8001/play/a0e4 
+#EXTINF:-1 group-title="Cultura",History Channel HD 
+http://200.95.184.42:8001/play/a06b 
+#EXTINF:-1 group-title="Cultura",Nat Geo HD 
+http://200.95.184.42:8001/play/a05a 
+#EXTINF:-1 group-title="Cultura",Sun Channel HD 
+http://200.95.184.42:8001/play/a0aj 
+#EXTINF:-1 group-title="Películas y series",A&E HD 
+http://200.95.184.42:8001/play/aehd 
+#EXTINF:-1 group-title="Películas y series",AMC HD 
+http://200.95.184.42:8001/play/a056 
+#EXTINF:-1 group-title="Películas y series",AXN HD 
+http://200.95.184.42:8001/play/a06f 
+#EXTINF:-1 group-title="Películas y series",Cinecanal HD 
+http://200.95.184.42:8001/play/a05c 
+#EXTINF:-1 group-title="Películas y series" tvg-id="CinecanalHD",Cinemax HD 
+http://200.95.184.42:8001/play/cinemaxhd 
+#EXTINF:-1 group-title="Películas y series",FOX HD 
+http://200.95.184.42:8001/play/a0ao 
+#EXTINF:-1 group-title="Películas y series",FX HD 
+http://200.95.184.42:8001/play/a0aw 
+#EXTINF:-1 group-title="Películas y series",Golden HD 
+http://200.95.184.42:8001/play/goldenhd 
+#EXTINF:-1 group-title="Películas y series",HBO 2 HD 
+http://200.95.184.42:8001/play/a0et 
+#EXTINF:-1 group-title="Películas y series",HBO Family HD 
+http://200.95.184.42:8001/play/a0ep 
+#EXTINF:-1 group-title="Películas y series",HBO HD 
+http://200.95.184.42:8001/play/a08o 
+#EXTINF:-1 group-title="Películas y series",Paramount HD 
+http://200.95.184.42:8001/play/a05j 
+#EXTINF:-1 group-title="Películas y series",Sony HD 
+http://200.95.184.42:8001/play/a06d 
+#EXTINF:-1 group-title="Películas y series",Space HD 
+http://200.95.184.42:8001/play/a06g 
+#EXTINF:-1 group-title="Películas y series",Studio Universal HD 
+http://200.95.184.42:8001/play/studiouni… 
+#EXTINF:-1 group-title="Películas y series",TNT HD 
+http://200.95.184.42:8001/play/a06w 
+#EXTINF:-1 group-title="Películas y series",TNT Series HD 
+http://200.95.184.42:8001/play/a0bf 
+#EXTINF:-1 group-title="Películas y series",UNIVERSAL CHANNEL HD 
+http://200.95.184.42:8001/play/a0ap 
+#EXTINF:-1 group-title="Películas y series",Warner Channel HD 
+http://200.95.184.42:8001/play/a06e 
+#EXTINF:-1 group-title="Entretención",Comedy Central HD 
+http://200.95.184.42:8001/play/a0f5 
+#EXTINF:-1 group-title="Entretención",DHE HD 
+http://200.95.184.42:8001/play/a0dz 
+#EXTINF:-1 group-title="Entretención",Discovery H&H HD 
+http://200.95.184.42:8001/play/a0al 
+#EXTINF:-1 group-title="Entretención",E! HD 
+http://200.95.184.42:8001/play/a0es 
+#EXTINF:-1 group-title="Entretención",El Gourmet HD 
+http://200.95.184.42:8001/play/a074 
+#EXTINF:-1 group-title="Entretención",Food Network HD 
+http://200.95.184.42:8001/play/foodnetwo… 
+#EXTINF:-1 group-title="Entretención",ID HD 
+http://200.95.184.42:8001/play/idhd 
+#EXTINF:-1 group-title="Entretención",Pasiones HD 
+http://200.95.184.42:8001/play/pasionesh… 
+#EXTINF:-1 group-title="Entretención",TRUTV HD 
+http://200.95.184.42:8001/play/a073 
+#EXTINF:-1 group-title="Noticias",CNN Chile HD 
+http://200.95.184.42:8001/play/cnnchileh… 
+#EXTINF:-1 group-title="Noticias",Canal 24 Horas HD 
+http://200.95.184.42:8001/play/a07d 
+#EXTINF:-1 group-title="Deportes",ESPN 2 HD 
+http://200.95.184.42:8001/play/a0ax 
+#EXTINF:-1 group-title="Deportes",ESPN 3 HD 
+http://200.95.184.42:8001/play/espn3hd 
+#EXTINF:-1 group-title="Deportes",ESPN EXTRA HD 
+http://200.95.184.42:8001/play/a05e 
+#EXTINF:-1 group-title="Deportes",ESPN HD 
+http://200.95.184.42:8001/play/a06j 
+#EXTINF:-1 group-title="Deportes",FOX Sports 2 HD 
+http://200.95.184.42:8001/play/a0at 
+#EXTINF:-1 group-title="Deportes",Fox Sports 1 HD 
+http://200.95.184.42:8001/play/a07k 
+#EXTINF:-1 group-title="Deportes",Fox Sports 3 HD 
+http://200.95.184.42:8001/play/foxsports… 
+#EXTINF:-1 group-title="Deportes",TNT SPORTS HD 
+http://200.95.184.42:8001/play/cdfhd 
+#EXTINF:-1 group-title="-",ATRES SERIES HD 
+http://200.95.184.42:8001/play/a0mp 
+#EXTINF:-1 group-title="-",AZ Cinema HD 
+http://200.95.184.42:8001/play/a0ml 
+#EXTINF:-1 group-title="-",BIOBIO TV 
+http://200.95.184.42:8001/play/a0mk 
+#EXTINF:-1 group-title="-",CANAL 13 COI 
+http://200.95.184.42:8001/play/a0m5 
+#EXTINF:-1 group-title="-",CARTOONITO COI 
+http://200.95.184.42:8001/play/a0lw 
+#EXTINF:-1 group-title="-",CHV COI 
+http://200.95.184.42:8001/play/a0m6 
+#EXTINF:-1 group-title="-",CINE FAMILIAR HD 
+http://200.95.184.42:8001/play/a0li 
+#EXTINF:-1 group-title="-",CINE HISPANO HD 
+http://200.95.184.42:8001/play/a0lj 
+#EXTINF:-1 group-title="-",CINE PREMIUM HD 
+http://200.95.184.42:8001/play/a0lh 
+#EXTINF:-1 group-title="-",CINEMAX TRANS 
+http://200.95.184.42:8001/play/a0mg 
+#EXTINF:-1 group-title="-",Clover HD 
+http://200.95.184.42:8001/play/a0ht 
+#EXTINF:-1 group-title="-",DE PELICULA COI 
+http://200.95.184.42:8001/play/a0lp 
+#EXTINF:-1 group-title="-",Discovery Science COI 
+http://200.95.184.42:8001/play/a0lr 
+#EXTINF:-1 group-title="-",ESTRELLAS COI 
+http://200.95.184.42:8001/play/a0lo 
+#EXTINF:-1 group-title="-",ETC TV COI 
+http://200.95.184.42:8001/play/a0m1 
+#EXTINF:-1 group-title="-",FOOD NETWORK TRANS 
+http://200.95.184.42:8001/play/a0g6 
+#EXTINF:-1 group-title="-",GLITZ COI 
+http://200.95.184.42:8001/play/a0lx 
+#EXTINF:-1 group-title="-",GOURMET TRANS 
+http://200.95.184.42:8001/play/a0mf 
+#EXTINF:-1 group-title="-",HBO POP HD 
+http://200.95.184.42:8001/play/a0g8 
+#EXTINF:-1 group-title="-",HBO XTREME HD 
+http://200.95.184.42:8001/play/a0i3 
+#EXTINF:-1 group-title="-",INFANTIL HD 
+http://200.95.184.42:8001/play/a0j5 
+#EXTINF:-1 group-title="-",Kanal D Drama HD 
+http://200.95.184.42:8001/play/a0ho 
+#EXTINF:-1 group-title="-",LOVE NATURE TRANS 
+http://200.95.184.42:8001/play/a0md 
+#EXTINF:-1 group-title="-",Lolly Kids HD 
+http://200.95.184.42:8001/play/a0hq 
+#EXTINF:-1 group-title="-",Love Nature HD 
+http://200.95.184.42:8001/play/a0hs 
+#EXTINF:-1 group-title="-",MEGA COI 
+http://200.95.184.42:8001/play/a0m3 
+#EXTINF:-1 group-title="-",MEGA HD 
+http://200.95.184.42:8001/play/a0l8 
+#EXTINF:-1 group-title="-",SUN CHANNEL TRANS 
+http://200.95.184.42:8001/play/a0me 
+#EXTINF:-1 group-title="-",SYFY COI 
+http://200.95.184.42:8001/play/a0lz 
+#EXTINF:-1 group-title="-",TELENOVELAS COI 
+http://200.95.184.42:8001/play/a0j6 
+#EXTINF:-1 group-title="-",TVN COI 
+http://200.95.184.42:8001/play/a0m4 
+#EXTINF:-1 group-title="-",Telenovelas 
+http://200.95.184.42:8001/play/a0m9 
+#EXTINF:-1 group-title="-",Teletrak 
+http://200.95.184.42:8001/play/a0f9
 #EXTINF:-1 tvg-id="USA | A&E" tvg-name="USA | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="DOCUMENTALES Y SERIES", 63 | A&E
 http://190.102.139.244:8900/play/a0ss/index.m3u8
 #EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="PELICULAS Y SERIES", 64 | AMC
@@ -8,18 +183,16 @@ http://190.102.139.244:8900/play/a0nz/index.m3u8
 http://45.5.117.182:8000/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 66 | AXN 
 http://190.102.139.244:8900/play/a0sv/index.m3u8
-#EXTINF:-1 tvg-id="USA | FMH Family" tvg-name="USA | FMH Family" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="PELICULAS Y SERIES", 122 | FMH Family http://160.20.165.246:8000/play/a01j/index.m3u8 #EXTINF:-1 tvg-id="CO | Cinema +" tvg-name="CO | Cinema +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/2560px-Cinema%2B_logo.svg.png" group-title="PELICULAS Y SERIES", 123 | Cinema + http://181.78.8.90:16123/play/ch12a #EXTINF:-1 tvg-id="CL | Dos Kids" tvg-name="CL | Dos Kids" tvg-logo="https://pbs.twimg.com/media/FnqhNDZWQAg6Q-H?format=png&name=240x240" group-title="INFANTILES", 124 | Dos Kids http://190.110.109.104:52321/play/a00w/index.m3u8 #EXTINF:-1 tvg-id="CL | Animotion" tvg-name="CL | Animotion" tvg-logo="https://pbs.twimg.com/media/FSIH0MSXEAEjBgA?format=jpg&name=240x240" group-title="INFANTILES", 125 | Animotion http://191.97.60.193:10000/play/a02n/index.m3u8 #EXTINF:-1 tvg-id="CL | Animash" tvg-name="CL | Animash" tvg-logo="https://pbs.twimg.com/media/GBPioWYXsAAvDon?format=png&name=360x360" group-title="INFANTILES", 126 | Animash http://191.97.60.193:10000/play/a02u/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="USA | FMH Family" tvg-name="USA | FMH Family" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="PELICULAS Y SERIES", 122 | FMH Family 
+http://160.20.165.246:8000/play/a01j/index.m3u8 
+#EXTINF:-1 tvg-id="CO | Cinema +" tvg-name="CO | Cinema +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/2560px-Cinema%2B_logo.svg.png" group-title="PELICULAS Y SERIES", 123 | Cinema + 
+http://181.78.8.90:16123/play/ch12a
+#EXTINF:-1 tvg-id="CL | Dos Kids" tvg-name="CL | Dos Kids" tvg-logo="https://pbs.twimg.com/media/FnqhNDZWQAg6Q-H?format=png&name=240x240" group-title="INFANTILES", 124 | Dos Kids 
+http://190.110.109.104:52321/play/a00w/index.m3u8 
+#EXTINF:-1 tvg-id="CL | Animotion" tvg-name="CL | Animotion" tvg-logo="https://pbs.twimg.com/media/FSIH0MSXEAEjBgA?format=jpg&name=240x240" group-title="INFANTILES", 125 | Animotion 
+http://191.97.60.193:10000/play/a02n/index.m3u8 
+#EXTINF:-1 tvg-id="CL | Animash" tvg-name="CL | Animash" tvg-logo="https://pbs.twimg.com/media/GBPioWYXsAAvDon?format=png&name=360x360" group-title="INFANTILES", 126 | Animash
+http://191.97.60.193:10000/play/a02u/index.m3u8
 #EXTINF:-1,A&E HD
 http://45.233.169.13:8000/play/a09f/index.m3u8
 #EXTINF:-1,AMC HD
