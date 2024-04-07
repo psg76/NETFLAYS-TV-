@@ -1,4 +1,40 @@
-#EXTM8
+#EXTM3U
+#EXTINF:-1,HBO 2
+http://45.71.252.16:8000/play/a0a2/index.m3u8
+#EXTINF:-1,HBO Family
+http://45.71.252.16:8000/play/a0a5/index.m3u8
+#EXTINF:-1,HBO POP
+http://45.71.252.16:8000/play/a0hv/index.m3u8
+#EXTINF:-1,HBO Plus
+http://45.71.252.16:8000/play/a0a3/index.m3u8
+#EXTINF:-1,HBO XTREME SD
+http://45.71.252.16:8000/play/a0a4/index.m3u8
+#EXTINF:-1,HBO 2
+http://45.71.252.16:8000/play/a0a2/index.m3u8
+#EXTINF:-1,HBO Family
+http://45.71.252.16:8000/play/a0a5/index.m3u8
+#EXTINF:-1,HBO POP
+http://45.71.252.16:8000/play/a0hv/index.m3u8
+#EXTINF:-1,HBO Plus
+http://45.71.252.16:8000/play/a0a3/index.m3u8
+#EXTINF:-1,HBO XTREME SD
+http://45.71.252.16:8000/play/a0a4/index.m3u8
+#EXTINF:-1,Trece
+http://45.71.252.16:8000/play/a0je/index.m3u8
+#EXTINF:-1,TyC
+http://45.71.252.16:8000/play/a0ao/index.m3u8
+#EXTINF:-1,Universal
+http://45.71.252.16:8000/play/a09b/index.m3u8
+#EXTINF:-1,Venus
+http://45.71.252.16:8000/play/a0i8/index.m3u8
+#EXTINF:-1,Via X Esports
+http://45.71.252.16:8000/play/a0ho/index.m3u8
+#EXTINF:-1,ViaX
+http://45.71.252.16:8000/play/a0ee/index.m3u8
+#EXTINF:-1,WUAN+
+http://45.71.252.16:8000/play/a0i3/index.m3u8
+#EXTINF:-1,Warner
+http://45.71.252.16:8000/play/a0ai/index.m3u8
 #EXTINF:-1,AMC
 http://178.219.128.68:64889/AMCHD
 #EXTINF:-1,HGTV
@@ -319,22 +355,7 @@ http://45.71.252.16:8000/play/a0av/index.m3u8
 http://45.71.252.16:8000/play/a0gk/index.m3u8
 #EXTINF:-1,Televicentro
 http://45.71.252.16:8000/play/a0i2/index.m3u8
-#EXTINF:-1,Trece
-http://45.71.252.16:8000/play/a0je/index.m3u8
-#EXTINF:-1,TyC
-http://45.71.252.16:8000/play/a0ao/index.m3u8
-#EXTINF:-1,Universal
-http://45.71.252.16:8000/play/a09b/index.m3u8
-#EXTINF:-1,Venus
-http://45.71.252.16:8000/play/a0i8/index.m3u8
-#EXTINF:-1,Via X Esports
-http://45.71.252.16:8000/play/a0ho/index.m3u8
-#EXTINF:-1,ViaX
-http://45.71.252.16:8000/play/a0ee/index.m3u8
-#EXTINF:-1,WUAN+
-http://45.71.252.16:8000/play/a0i3/index.m3u8
-#EXTINF:-1,Warner
-http://45.71.252.16:8000/play/a0ai/index.m3u8
+
 
 
 
